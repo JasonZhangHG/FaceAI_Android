@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">人脸识别</string>
+    <string name="main_txt_title">人脸识别</string>
+    <string name="button_sign_in">选择图片人脸识别</string>
+    <string name="button_register">视频拍摄中人脸识别</string>
+</resources>
